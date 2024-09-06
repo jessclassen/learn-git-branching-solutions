@@ -79,10 +79,10 @@ git push origin foo:main
 
 2.6 Fetch arguments
 
-git fetch origin main~1:foo
-git fetch origin foo:main
+git fetch origin C3:foo
+git fethc origin C6:main
 git checkout foo
-git merge c6
+git merge main
 
 2.7 Source of nothing
 
